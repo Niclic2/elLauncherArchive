@@ -1,1 +1,1 @@
-3957a57ef0b2d617bfbabe653ad83a218b63388d
+- [star](https://github.com/Niclic2/elLauncherArchive/blob/main/star.md)
