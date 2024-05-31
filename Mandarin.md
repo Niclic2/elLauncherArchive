@@ -1,3 +1,12 @@
+# Обновление 
+- Моды 
+  - мод(1) 
+  - синтаксис github учитывается
+  - хуй большой не помещается
+forge.cfg
+forgeChunkLoading.cfg
+splash.properties
+
 # Обновление 2
 ivanzolo2004-zolo-min.gif
 cat-head.gif
