@@ -1,3 +1,11 @@
+# Обновление
+- Моды
+- синтаксис github учитывается
+cat-head.gif
+forge.cfg
+forgeChunkLoading.cfg
+splash.properties
+иди нахуй
 # Обновление 
 - Моды 
 - мод(1) 
