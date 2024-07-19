@@ -1,0 +1,17 @@
+{
+	id: "62118852-3561-5717-4550-233294476533"
+	type: "player"
+	player_name: "leksiy"
+	ranks: {
+		62118852-3561-5717-4550-233294476533: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "leksiy"
+		"ftbteams:description": ""
+		"ftbteams:color": "#F1FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
