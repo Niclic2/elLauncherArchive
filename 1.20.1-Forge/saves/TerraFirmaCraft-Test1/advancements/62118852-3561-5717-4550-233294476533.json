@@ -1,0 +1,736 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-06-17 20:57:42 +0400"
+    },
+    "done": true
+  },
+  "tfc:story/root": {
+    "criteria": {
+      "in_game_condition": "2024-06-17 20:57:42 +0400"
+    },
+    "done": true
+  },
+  "tfc:world/root": {
+    "criteria": {
+      "in_game_condition": "2024-06-17 20:57:42 +0400"
+    },
+    "done": true
+  },
+  "tfc:world/adventuring_time": {
+    "criteria": {
+      "low_canyons": "2024-06-17 20:59:08 +0400",
+      "rolling_hills": "2024-06-17 20:57:58 +0400",
+      "inverted_badlands": "2024-06-18 12:25:44 +0400",
+      "hills": "2024-06-17 20:57:45 +0400",
+      "river": "2024-06-17 21:08:23 +0400"
+    },
+    "done": false
+  },
+  "tfc:crafting/firestarter": {
+    "criteria": {
+      "has_item": "2024-06-17 20:58:05 +0400"
+    },
+    "done": true
+  },
+  "tfc:crafting/wood/stick_from_twigs": {
+    "criteria": {
+      "has_item": "2024-06-17 20:58:05 +0400"
+    },
+    "done": true
+  },
+  "tfc:crafting/stick_bunch": {
+    "criteria": {
+      "has_item": "2024-06-17 20:58:05 +0400"
+    },
+    "done": true
+  },
+  "tfc:story/find_rock": {
+    "criteria": {
+      "rock_knapping": "2024-06-17 20:58:07 +0400"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/basalt_mossy_loose_rocks_to_cobble": {
+    "criteria": {
+      "has_item": "2024-06-17 20:58:07 +0400"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/basalt_brick_from_mossy": {
+    "criteria": {
+      "has_item": "2024-06-17 20:58:09 +0400"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/basalt_loose_rocks_to_cobble": {
+    "criteria": {
+      "has_item": "2024-06-17 20:58:09 +0400"
+    },
+    "done": true
+  },
+  "tfc:crafting/rock/basalt_brick": {
+    "criteria": {
+      "has_item": "2024-06-17 20:58:09 +0400"
+    },
+    "done": true
+  },
+  "tfc:crafting/pumpkin_chunks": {
+    "criteria": {
+      "has_item": "2024-06-17 20:59:06 +0400"
+    },
+    "done": true
+  },
+  "tfc:crafting/pumpkin_pie": {
+    "criteria": {
+      "has_item": "2024-06-17 20:59:06 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-06-17 20:59:53 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-06-17 20:59:53 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-06-17 20:59:53 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-06-17 20:59:53 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-06-17 20:59:53 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-06-17 20:59:53 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-06-17 20:59:53 +0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-06-17 21:00:20 +0400"
+    },
+    "done": true
+  },
+  "tfc:world/hunter": {
+    "criteria": {
+      "special_condition": "2024-06-17 21:00:20 +0400"
+    },
+    "done": true
+  },
+  "tfc:crafting/bone_needle": {
+    "criteria": {
+      "has_item": "2024-06-17 21:00:21 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-06-17 21:00:21 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-06-17 21:08:25 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-06-17 21:08:25 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-06-17 21:08:25 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-06-17 21:08:25 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-06-17 21:08:25 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-06-17 21:08:25 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-06-17 21:08:25 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-06-17 21:08:25 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-06-17 21:08:25 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-06-17 21:08:41 +0400"
+    },
+    "done": true
+  },
+  "tfc:world/all_fish": {
+    "criteria": {
+      "food/lake_trout": "2024-06-17 21:08:41 +0400"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/crank": {
+    "criteria": {
+      "has_stick": "2024-06-17 21:11:01 +0400"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/supply_cart": {
+    "criteria": {
+      "has_wheel": "2024-06-17 21:27:20 +0400"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/plow": {
+    "criteria": {
+      "has_wheel": "2024-06-17 21:27:20 +0400"
+    },
+    "done": true
+  },
+  "astikorcarts:recipes/animal_cart": {
+    "criteria": {
+      "has_wheel": "2024-06-17 21:27:20 +0400"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-06-17 22:17:28 +0400"
+    },
+    "done": true
+  },
+  "create_connected:root": {
+    "criteria": {
+      "0": "2024-06-17 22:17:28 +0400"
+    },
+    "done": true
+  },
+  "etched:recipes/misc/music_label": {
+    "criteria": {
+      "has_blank_music_disc": "2024-06-17 23:11:14 +0400"
+    },
+    "done": true
+  },
+  "etched:recipes/decorations/album_jukebox": {
+    "criteria": {
+      "has_jukebox": "2024-06-17 23:11:14 +0400"
+    },
+    "done": true
+  },
+  "etched:recipes/misc/boombox": {
+    "criteria": {
+      "has_jukebox": "2024-06-17 23:11:14 +0400"
+    },
+    "done": true
+  },
+  "etched:recipes/transportation/jukebox_minecart": {
+    "criteria": {
+      "has_minecart": "2024-06-17 23:11:14 +0400"
+    },
+    "done": true
+  },
+  "exposure:recipes/tools/camera": {
+    "criteria": {
+      "has_iron": "2024-06-17 23:11:14 +0400"
+    },
+    "done": true
+  },
+  "exposure:recipes/tools/black_and_white_film": {
+    "criteria": {
+      "has_camera": "2024-06-17 23:11:59 +0400"
+    },
+    "done": true
+  },
+  "exposure:recipes/tools/color_film": {
+    "criteria": {
+      "has_camera": "2024-06-17 23:11:59 +0400"
+    },
+    "done": true
+  },
+  "exposure:recipes/developing_color_film": {
+    "criteria": {
+      "has_color_film": "2024-06-17 23:13:14 +0400"
+    },
+    "done": true
+  },
+  "exposure:recipes/copying_color_photograph": {
+    "criteria": {
+      "has_photograph": "2024-06-17 23:13:16 +0400"
+    },
+    "done": true
+  },
+  "exposure:adventure/get_photograph": {
+    "criteria": {
+      "get_photograph": "2024-06-17 23:13:16 +0400"
+    },
+    "done": true
+  },
+  "exposure:recipes/copying_black_and_white_photograph": {
+    "criteria": {
+      "has_photograph": "2024-06-17 23:13:16 +0400"
+    },
+    "done": true
+  },
+  "exposure:adventure/expose_film": {
+    "criteria": {
+      "expose_film": "2024-06-17 23:17:03 +0400"
+    },
+    "done": true
+  },
+  "etched:recipes/misc/album_cover": {
+    "criteria": {
+      "has_paper": "2024-06-17 23:17:58 +0400"
+    },
+    "done": true
+  },
+  "tfc:crafting/vanilla/map": {
+    "criteria": {
+      "has_item": "2024-06-17 23:17:58 +0400"
+    },
+    "done": true
+  },
+  "tfc:crafting/sandpaper": {
+    "criteria": {
+      "has_item": "2024-06-17 23:17:58 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-06-17 23:17:58 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2024-06-17 23:17:58 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2024-06-17 23:17:58 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2024-06-17 23:17:58 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2024-06-17 23:17:58 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-06-17 23:17:58 +0400"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_trans_overlay": {
+    "criteria": {
+      "has_dye": "2024-06-17 23:18:22 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-06-17 23:18:22 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_candle": {
+    "criteria": {
+      "has_cyan_dye": "2024-06-17 23:18:22 +0400"
+    },
+    "done": true
+  },
+  "tfc:world/artist": {
+    "criteria": {
+      "magenta": "2024-06-17 23:18:29 +0400",
+      "yellow": "2024-06-17 23:18:34 +0400",
+      "black": "2024-06-17 23:18:35 +0400",
+      "cyan": "2024-06-17 23:18:22 +0400"
+    },
+    "done": false
+  },
+  "ae2:recipes/misc/network/cables/glass_cyan": {
+    "criteria": {
+      "has_dyes/black": "2024-06-17 23:18:22 +0400"
+    },
+    "done": true
+  },
+  "tfc:crafting/ceramic/cyan_unfired_large_vessel": {
+    "criteria": {
+      "has_item": "2024-06-17 23:18:22 +0400"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_rainbow_overlay": {
+    "criteria": {
+      "has_dye": "2024-06-17 23:18:22 +0400"
+    },
+    "done": true
+  },
+  "tfc:crafting/ceramic/cyan_unfired_vessel": {
+    "criteria": {
+      "has_item": "2024-06-17 23:18:22 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-06-17 23:18:22 +0400"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_cyan": {
+    "criteria": {
+      "has_dyes/black": "2024-06-17 23:18:22 +0400"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_rainbow_overlay": {
+    "criteria": {
+      "has_dye": "2024-06-17 23:18:22 +0400"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_cyan": {
+    "criteria": {
+      "has_dyes/black": "2024-06-17 23:18:22 +0400"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_cyan": {
+    "criteria": {
+      "has_dyes/black": "2024-06-17 23:18:22 +0400"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_trans_overlay": {
+    "criteria": {
+      "has_dye": "2024-06-17 23:18:22 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_cyan_dye": "2024-06-17 23:18:22 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-06-17 23:18:22 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-06-17 23:18:29 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_candle": {
+    "criteria": {
+      "has_magenta_dye": "2024-06-17 23:18:29 +0400"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_magenta": {
+    "criteria": {
+      "has_dyes/black": "2024-06-17 23:18:29 +0400"
+    },
+    "done": true
+  },
+  "tfc:crafting/ceramic/magenta_unfired_vessel": {
+    "criteria": {
+      "has_item": "2024-06-17 23:18:29 +0400"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_magenta": {
+    "criteria": {
+      "has_dyes/black": "2024-06-17 23:18:29 +0400"
+    },
+    "done": true
+  },
+  "tfc:crafting/ceramic/magenta_unfired_large_vessel": {
+    "criteria": {
+      "has_item": "2024-06-17 23:18:29 +0400"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_magenta": {
+    "criteria": {
+      "has_dyes/black": "2024-06-17 23:18:29 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-06-17 23:18:29 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-06-17 23:18:29 +0400"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_magenta": {
+    "criteria": {
+      "has_dyes/black": "2024-06-17 23:18:29 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_magenta_dye": "2024-06-17 23:18:29 +0400"
+    },
+    "done": true
+  },
+  "tfc:crafting/ceramic/yellow_unfired_large_vessel": {
+    "criteria": {
+      "has_item": "2024-06-17 23:18:34 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2024-06-17 23:18:34 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-06-17 23:18:34 +0400"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_yellow": {
+    "criteria": {
+      "has_dyes/black": "2024-06-17 23:18:34 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2024-06-17 23:18:34 +0400"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_yellow": {
+    "criteria": {
+      "has_dyes/black": "2024-06-17 23:18:34 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-06-17 23:18:34 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2024-06-17 23:18:34 +0400"
+    },
+    "done": true
+  },
+  "tfc:crafting/ceramic/yellow_unfired_vessel": {
+    "criteria": {
+      "has_item": "2024-06-17 23:18:34 +0400"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_yellow": {
+    "criteria": {
+      "has_dyes/black": "2024-06-17 23:18:34 +0400"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_yellow": {
+    "criteria": {
+      "has_dyes/black": "2024-06-17 23:18:34 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-06-17 23:18:34 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-06-17 23:18:35 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-06-17 23:18:35 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2024-06-17 23:18:35 +0400"
+    },
+    "done": true
+  },
+  "tfc:crafting/ceramic/black_unfired_vessel": {
+    "criteria": {
+      "has_item": "2024-06-17 23:18:35 +0400"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_black": {
+    "criteria": {
+      "has_dyes/black": "2024-06-17 23:18:35 +0400"
+    },
+    "done": true
+  },
+  "tfc:crafting/ceramic/black_unfired_large_vessel": {
+    "criteria": {
+      "has_item": "2024-06-17 23:18:35 +0400"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_black": {
+    "criteria": {
+      "has_dyes/black": "2024-06-17 23:18:35 +0400"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_black": {
+    "criteria": {
+      "has_dyes/black": "2024-06-17 23:18:35 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2024-06-17 23:18:35 +0400"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_black": {
+    "criteria": {
+      "has_dyes/black": "2024-06-17 23:18:35 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2024-06-17 23:18:35 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2024-06-17 23:18:35 +0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-06-17 23:18:35 +0400"
+    },
+    "done": true
+  },
+  "exposure:recipes/decorations/lightroom": {
+    "criteria": {
+      "has_developed_film": "2024-06-17 23:18:48 +0400"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2024-06-17 23:20:42 +0400"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-06-17 23:20:42 +0400"
+    },
+    "done": true
+  },
+  "firmalife:crafting/spoon": {
+    "criteria": {
+      "has_item": "2024-06-18 11:40:40 +0400"
+    },
+    "done": true
+  },
+  "firmalife:crafting/peel": {
+    "criteria": {
+      "has_item": "2024-06-18 11:40:40 +0400"
+    },
+    "done": true
+  },
+  "firmalife:story/root": {
+    "criteria": {
+      "in_game_condition": "2024-06-18 11:40:53 +0400"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
